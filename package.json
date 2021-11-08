@@ -1,0 +1,19 @@
+{
+  "name": "node_example_ngtrks",
+  "version": "1.0.0",
+  "description": "new_node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ngtrks/Project_3.git"
+  },
+  "author": "ngtrks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ngtrks/Project_3/issues"
+  },
+  "homepage": "https://github.com/Ngtrks/Project_3#readme"
+}
